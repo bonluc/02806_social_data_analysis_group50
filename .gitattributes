@@ -1,1 +1,2 @@
+merged_crime_data.csv filter=lfs diff=lfs merge=lfs -text
 assignment1/merged_crime_data.csv filter=lfs diff=lfs merge=lfs -text
